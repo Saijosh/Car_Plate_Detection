@@ -30,8 +30,11 @@ The pipeline has been tested on multiple scenarios to evaluate its tracking and 
 
 | Rank | Track ID | Detected Plate | Score | Time Detected |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | 19 | KA02MM9091 | 1.00 | 20.67s |
-| 2 | 32 | KA0Z | 0.43 | 25.17s |
+| 1 | 18 | KA02MM9091 | 1.00 | 19.33s |
+| 2 | 2 | KA02KN18261 | 0.48 | 7.83s |
+| 3 | 10 | IKA02HN18267 | 0.45 | 8.17s |
+| 4 | 15 | 4A020H7256 | 0.40 | 12.17s |
+| 5 | 16 | 021H7256 | 0.33 | 14.67s |
 
 ### Test 2: Traffic Control CCTV (Fuzzy Match / Lower Quality)
 * **Video:** `Traffic Control CCTV.mp4`
